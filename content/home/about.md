@@ -2,7 +2,7 @@
 widget: about
 active: true
 author: admin
-widget_id: Recent
+widget_id: Devineni Naga Sravya
 headless: true
 weight: 20
 title: Biography
