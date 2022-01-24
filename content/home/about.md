@@ -1,21 +1,30 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: Recent
+headless: true
+weight: 20
+title: Biography
+design:
+  background:
+    image: icon.png
+    color: "#090909"
+    gradient_start: "#faf5f5"
+    gradient_end: "#e9dada"
+    text_color_light: true
+    image_darken: 0
 ---
+<!--StartFragment-->
+
+Devineni Naga Sravya student in Computer Science and engineering at The University of Texas at Arlington. My research interest includes robotics and artificial intellegence. My special interest is to be the part of NEUROSCIENCE research works to study how brain learns and computes to achieve intelligent behaviour.
+
+
+
+
+
+**INTERESTS:**
+
+* **Neuroscience**
+* **Artificial Intelligence**
+* **Robotics**
